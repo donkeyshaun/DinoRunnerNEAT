@@ -9,6 +9,7 @@ I made a <a href ="https://youtu.be/LSTNQ6lTI78">video</a> showing of the projec
 # Usefull links
 <a href ="https://neat-python.readthedocs.io/en/latest/neat_overview.html#neat-overview-label
 ">NEAT-Python Library</a>
+
 <a href ="http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf
 ">NEAT Algorithm</a>
 
